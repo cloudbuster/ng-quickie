@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "Mikko Karaiste",
+    "diet" : "fish",
+    "sauna" : true
+  },
+  {
+    "name" : "Jaana Maukonen",
+    "diet" : "meat",
+    "sauna" : false
+  },
+  {
+    "name" : "Ismo Jakomäki",
+    "diet" : "vegetarian",
+    "sauna" : true
+  },
+  {
+    "name" : "Mervi Salomäki",
+    "diet" : "meat",
+    "sauna" : true
+  }
+]
